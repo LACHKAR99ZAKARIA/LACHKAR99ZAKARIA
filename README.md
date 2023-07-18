@@ -104,7 +104,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/LACHKAR99ZAKARIA/LACHKAR99ZAKARIA/output/snake.svg" alt="Snake animation" />
-
-###
