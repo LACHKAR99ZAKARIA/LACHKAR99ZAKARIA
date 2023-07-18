@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Lachkar Zakaria from Morocco<br><br>- 🔭 I’m working as a IOS engineer</p>
+<p align="left">I'm Lachkar Zakaria from Morocco<br><br>- 🔭 I’m working as an IOS engineer</p>
 
 ###
 
